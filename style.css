@@ -1,0 +1,50 @@
+body
+{
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+}   
+.welcome
+{
+    margin: 10% auto 0;
+    color: #000000;
+    text-align: center;
+    font-family: 'Tapestry', cursive;
+}
+h1
+{
+    font-weight: 900;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+h6
+{
+    font-style: italic;
+}
+.bi
+{
+    margin: 10% auto 0;
+    color: #000000;
+    text-align: center;
+    font-family: 'Tapestry', cursive;
+}
+
+h2
+{
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.ni
+{
+    margin: 10% auto 0;
+    color: #000000;
+    text-align: center;
+    font-family: 'Tapestry', cursive;
+}
+
+.bin
+{
+    margin: 10% auto 0;
+    color: #000000;
+    text-align: center;
+    font-family: 'Tapestry', cursive;
+}
